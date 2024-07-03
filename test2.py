@@ -5,3 +5,7 @@ def avg(n):
 
 num = int(input())
 print(avg(num))
+print(avg(num))
+print(avg(num))
+print(avg(num))
+print(avg(num))
